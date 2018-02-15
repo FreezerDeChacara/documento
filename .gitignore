@@ -1,3 +1,8 @@
+target/
+*.iml
+.idea/
+src/main/deb/
+
 # Compiled class file
 *.class
 
